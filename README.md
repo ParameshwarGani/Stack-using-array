@@ -1,4 +1,4 @@
-# Stack-using-array
+
 # Stack-using-array
 <br>The Array implementation of stacks involves allocation of fixed size array in the memory.Both stack operations (push and pop) are made on this array with a constant check being made to ensure that the array does not go out of bounds.</br>
 
